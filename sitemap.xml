@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://janusadmissions.com/about/</loc>
+    <loc>https://janusadmissions.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>https://janusadmissions.com/categories/</loc>
+    <loc>https://janusadmissions.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://janusadmissions.com/contact/</loc>
+    <loc>https://janusadmissions.github.io/contact/</loc>
   </url>
   
   <url>
-    <loc>https://janusadmissions.com/</loc>
+    <loc>https://janusadmissions.github.io/</loc>
   </url>
   
   <url>
-    <loc>https://janusadmissions.com/service/</loc>
+    <loc>https://janusadmissions.github.io/service/</loc>
   </url>
   
   <url>
-    <loc>https://janusadmissions.com/tags/</loc>
+    <loc>https://janusadmissions.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   

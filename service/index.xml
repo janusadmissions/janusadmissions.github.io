@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>One-On-One Services on Janus Admissions Consulting</title>
-    <link>https://janusadmissions.com/service/</link>
+    <link>https://janusadmissions.github.io/service/</link>
     <description>Recent content in One-On-One Services on Janus Admissions Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://janusadmissions.com/service/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://janusadmissions.github.io/service/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
